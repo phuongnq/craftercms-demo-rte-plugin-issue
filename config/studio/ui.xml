@@ -368,7 +368,7 @@
                     "valid_children": "",
                     "toolbar1": "formatselect | bold italic strikethrough forecolor backcolor | link | alignleft aligncenter alignright alignjustify | numlist bullist outdent indent | removeformat",
                     "toolbar2": "my_button my_split_button",
-										"code_editor_wrap": false,
+					"code_editor_wrap": false,
                     "toolbar_sticky": true,
                     "image_advtab": true,
                     "encoding": "xml",
@@ -389,10 +389,10 @@
                     "content_css": [],
                     "content_style": "body {}",
                     "contextmenu": false,
-										"external_plugins": {
+					"external_plugins": {
                     	"my_button": "/studio/1/plugin/file?siteId={site}&pluginId=my_button&type=tinymce&name=my_button&filename=plugin.js",
                     	"my_split_button": "/studio/1/plugin/file?siteId={site}&pluginId=my_split_button&type=tinymce&name=my_split_button&filename=plugin.js",
-  									},
+  					}
                 }
             ]]>
 					</tinymceOptions>
